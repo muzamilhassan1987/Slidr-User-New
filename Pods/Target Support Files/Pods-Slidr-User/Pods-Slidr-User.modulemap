@@ -1,0 +1,6 @@
+framework module Pods_Slidr_User {
+  umbrella header "Pods-Slidr-User-umbrella.h"
+
+  export *
+  module * { export * }
+}

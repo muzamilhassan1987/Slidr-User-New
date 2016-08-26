@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (3.4.1)
+  - AlamofireImage (2.4.1):
+    - Alamofire (~> 3.3)
+  - Crashlytics (3.7.3):
+    - Fabric (~> 1.6.3)
+  - EZAlertController (0.3)
+  - Fabric (1.6.8)
+  - JGProgressHUD (1.4)
+  - ObjectMapper (1.4.0)
+  - RMMapper (1.1.5)
+  - SwiftyJSON (2.3.2)
+  - Toast-Swift (1.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.3)
+  - AlamofireImage (~> 2.0)
+  - Crashlytics
+  - EZAlertController (= 0.3)
+  - Fabric
+  - JGProgressHUD
+  - ObjectMapper (~> 1.2)
+  - RMMapper
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+  - Toast-Swift (~> 1.3.0)
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: 73670b94292b8d8496c398a973f56ac67789ba9f
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  AlamofireImage: 3ccf3347d9ea24580dc11fb892770a0be6a29826
+  Crashlytics: 76f6beaff70acf226139582c09c78461597c2b98
+  EZAlertController: 178808422e5281c3ffb20c28cb3eb555088bf07e
+  Fabric: 5755268d0171435ab167e3d0878a28a777deaf10
+  JGProgressHUD: 1617b0940cf80bb53e8f7d6f0fd69252ea45d6d4
+  ObjectMapper: a07ad0462c5adf014adc0f89ef04c29b626e855e
+  RMMapper: 21122d753c736d975f6c61e674afce8db73579af
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  Toast-Swift: 25c3d98db42dc70d9a77b5006ee000e0becb458e
+
+COCOAPODS: 0.39.0
